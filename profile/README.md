@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">Welcome to RQ'21-Engineer Club</div>  
+### <div align="center">Welcome to RQ '21 Software Engineering Club</div>  
   
 
-- 🔭 Welcome to RQ'21-Engineer, where we are dedicated to advancing technology and fostering innovation in the engineering community.  
+- 🔭 Welcome to RQ '21 Software Engineering Club, where we are dedicated to advancing technology and fostering innovation in the engineering community.  
   
 
 - 🌱 As a visitor to our tech organization, we hope you will find our projects and resources valuable in your own work.  

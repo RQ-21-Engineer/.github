@@ -117,6 +117,9 @@
 <a href="https://github.com/RQ-21-Engineer" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+<a href="https://discord.gg/SJ5pXVAXw7" target="_blank">
+<img src=https://img.shields.io/discord/1062429911047995433?&style=for-the-badge&logo=github&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a>  
 <a href="https://www.youtube.com/@rq.informatika.2113" target="_blank">
 <img src="https://img.shields.io/badge/youtube-fc0303.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube="margin-bottom: 5px;" />
 </a> 

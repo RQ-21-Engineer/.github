@@ -118,7 +118,12 @@
 <a href="https://www.youtube.com/@rq.informatika.2113" target="_blank">
 <img src="https://img.shields.io/badge/youtube-fc0303.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube="margin-bottom: 5px;" />
 </a> 
-</div>  
+</div>
+
+<div class="discord-frame">
+<iframe src="https://discordapp.com/widget?id=1062429911047995433&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
+</iframe>
+</div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=RQ-21-Engineer&&style=flat-square" align="center" />

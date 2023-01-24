@@ -2,7 +2,6 @@
 <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">Welcome to RQ '21 Software Engineering Club</div>  
   
 
@@ -17,13 +16,10 @@
 
 - ⚡ We hope you will enjoy exploring our code repositories on GitHub and engaging with our community of engineers.
   
-
 <br/>  
-
 
 ## The skill set we learned  
 <table><tr><td valign="top" width="33%">
-
 
 ### Frontend  
 <div align="center">  
@@ -49,7 +45,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 ### Backend  
 <div align="center">  
@@ -81,7 +76,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 ### DevOps  
 <div align="center">  
@@ -118,11 +112,6 @@
 <a href="https://www.youtube.com/@rq.informatika.2113" target="_blank">
 <img src="https://img.shields.io/badge/youtube-fc0303.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube="margin-bottom: 5px;" />
 </a> 
-</div>
-
-<div class="discord-frame">
-<iframe src="https://discordapp.com/widget?id=1062429911047995433&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
-</iframe>
 </div>
 
 <div align="center">

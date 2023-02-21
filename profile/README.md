@@ -100,20 +100,23 @@
 
 ## Our social media  
 <div align="center">
-<a href="https://instagram.com/rq.informatika.21" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://discord.gg/SJ5pXVAXw7" target="_blank">
-<img src=https://img.shields.io/discord/1062429911047995433?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/RQ-21-Engineer" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.youtube.com/@rq.informatika.2113" target="_blank">
-<img src="https://img.shields.io/badge/youtube-fc0303.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube="margin-bottom: 5px;" />
-</a> 
+  <a href="https://instagram.com/rq.informatika.21" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://discord.gg/SJ5pXVAXw7" target="_blank">
+    <img src=https://img.shields.io/discord/1062429911047995433?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://rq21.netlify.app/" target="_blank">
+    <img src=https://img.shields.io/badge/website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white alt=discord style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://github.com/RQ-21-Engineer" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>  
+  <a href="https://www.youtube.com/@rq.informatika.2113" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-fc0303.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube="margin-bottom: 5px;" />
+  </a> 
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=RQ-21-Engineer&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=RQ-21-Engineer&&style=flat-square" align="center" />
 </div>
